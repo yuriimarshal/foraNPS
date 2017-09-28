@@ -1,0 +1,6 @@
+.idea/
+assets/
+build/
+src/bower_components
+node_modules/
+src/css/main.css
