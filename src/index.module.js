@@ -11,6 +11,7 @@
             'ui.router',
             'ngStorage',
             'angular-loading-bar',
+            'chart.js',
 
             'core'
         ])
